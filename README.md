@@ -72,7 +72,7 @@ A single-level interactive game built with Pygame. Glide the paddle, control the
 ## 🌐 Let's Connect!
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh1311)
-- [Portfolio](yogesh-portfolio-pink-theta.vercel.app)
+- [Portfolio](https://yogesh-portfolio-pink-theta.vercel.app/)
 - 📧 Email: yogeshyadav14434@gmail.com
 
 ---
