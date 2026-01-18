@@ -110,7 +110,7 @@ print(me)
 </p>
 
 <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=yogiii13)](https://git.io/streak-stats)
+    
 </p>
 
 <p align="center">
@@ -193,7 +193,7 @@ print(me)
 
 <!-- Snake eating contributions -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yogiii13/Yogiii13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Yogiii13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
