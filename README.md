@@ -113,13 +113,13 @@ print(me)
     
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Yogiii13&theme=algolia&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogiii13&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+</p> -->
 
 ---
 
@@ -185,16 +185,15 @@ print(me)
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogiii13&bg_color=1a1b27&color=628fdb&line=628fdb&point=19b2a6&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+</p> -->
 
 <!-- Snake eating contributions -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Yogiii13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+</p> -->
 
 ---
 
